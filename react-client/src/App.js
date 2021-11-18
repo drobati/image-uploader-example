@@ -10,9 +10,6 @@ function App() {
       </div>
 
       <div className="sm:col-span-6 pt-10">
-        <label htmlFor="cover-photo" className="block text-sm font-medium text-gray-700">
-          Cover photo
-        </label>
         <FileUpload />
       </div>
     </div>
